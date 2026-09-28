@@ -40,7 +40,8 @@ body {
     color: white;
 }
 
-.btn-add:hover {
+.btn-add:hover,
+.btn-nav:hover {
     background-color: #444444;
-    color: lightcyan;
+    color: #eeeeee;
 }
